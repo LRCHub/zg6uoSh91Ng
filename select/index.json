@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "In the Morning",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-02-13T18:37:18.833902Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Feel It in the Morning",
+      "artist": "Rascal Flatts",
+      "has_synced": false,
+      "path": "select/01_Feel_It_in_the_Morning_Rascal_Flatts.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Run in the Morning Sun",
+      "artist": "Lady & Bird",
+      "has_synced": false,
+      "path": "select/02_Run_in_the_Morning_Sun_Lady_&_Bird.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "1 In the Morning",
+      "artist": "LL Cool J",
+      "has_synced": false,
+      "path": "select/03_1_In_the_Morning_LL_Cool_J.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "In The Morning",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/04_In_The_Morning_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "In The Morning",
+      "artist": "Kelis",
+      "has_synced": false,
+      "path": "select/05_In_The_Morning_Kelis.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "In the Morning",
+      "artist": "ZHU",
+      "has_synced": true,
+      "path": "select/06_In_the_Morning_ZHU.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Baby I Will Leave You In The Morning",
+      "artist": "Marissa Nadler",
+      "has_synced": true,
+      "path": "select/07_Baby_I_Will_Leave_You_In_The_Morning_Marissa_Nadler.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "In the Morning",
+      "artist": "Monster Movie",
+      "has_synced": false,
+      "path": "select/08_In_the_Morning_Monster_Movie.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Catholic In The Morning...Satanist At Night",
+      "artist": "Powerwolf",
+      "has_synced": false,
+      "path": "select/09_Catholic_In_The_Morning...Satanist_At_Night_Powerwolf.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Singing a Song In the Morning",
+      "artist": "Kevin Ayers",
+      "has_synced": false,
+      "path": "select/10_Singing_a_Song_In_the_Morning_Kevin_Ayers.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Early in the Morning",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/11_Early_in_the_Morning_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Early In the Morning",
+      "artist": "Eric Clapton",
+      "has_synced": true,
+      "path": "select/12_Early_In_the_Morning_Eric_Clapton.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Early In The Morning - Live",
+      "artist": "Eric Clapton",
+      "has_synced": false,
+      "path": "select/13_Early_In_The_Morning_-_Live_Eric_Clapton.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Three O'Clock in the Morning",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/14_Three_O'Clock_in_the_Morning_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Three O' Clock In The Morning",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/15_Three_O'_Clock_In_The_Morning_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Four O'Clock In the Morning",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/16_Four_O'Clock_In_the_Morning_The_Pogues.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "In the Morning",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_In_the_Morning_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
